@@ -1,0 +1,41 @@
+:root{
+    --fond : #262335;
+    --titres: #fff;
+    --texte : #71689E;
+    --hover : #93919a;
+}
+
+/* HEADER */
+nav {
+    margin-left: 15vw;
+    margin-right: 15vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--fond);
+}
+  
+.gauche {
+    display: flex;
+    align-items: center;
+    gap: 2vw;
+    }
+
+.droite {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    gap: 2vw;
+   }
+
+.droite a,.gauche a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.droite p:hover,.gauche p:hover{
+    border-bottom: 2px solid var(--hover);
+}
