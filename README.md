@@ -9,3 +9,8 @@ Commit 2:
 
 Commit 3:
 - Ajout du style de la navbar
+
+Commit 4:
+- Création section principale `Home, stylisation, ajouts logos`
+
+- TODO: Retélécharger les logos avec la bonne couleur
