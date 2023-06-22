@@ -1,0 +1,30 @@
+/* FOOTER */
+.footer{
+    /* margin-top: 20vh; */
+    background-color: var(--fond);
+    height: 10vh;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+
+.f{
+    color: var(--texte);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1.2vw;
+}
+
+
+.f{
+    color: var(--texte);
+    font-size: 1.2vw;
+}
+
+.sun:hover{
+    color: var(--hover);
+    font-size: 1.2vw;
+    transform: scale(1.2);
+}
