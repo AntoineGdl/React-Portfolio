@@ -5,12 +5,7 @@
     --hover : #93919a;
 }
 
-/* SECTION PRINCIPALE */
-
 *{
-    /* margin: 0; */
-    /* padding: 0; */
-    /* box-sizing: border-box; */
     font-family: 'Inter', sans-serif;
     font-size: 1.2vw;
     background-color: var(--fond);
@@ -50,10 +45,7 @@
 }
 
 .logos{
-    /* color: var(--texte); */
     width: 1.2vw;
-    /* background-color: white;
-    border-radius: 100%; */
     padding: 0.5vw;
     font-size: 1.2vw;
     transition: all 0.1s ease-in-out;
@@ -62,6 +54,5 @@
     background: none;
 }
 .logos:hover{
-    /* color: var(--hover); */
     transform: scale(1.2);
 }

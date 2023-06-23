@@ -1,8 +1,4 @@
 import "../styles/sectionhome.css"
-// import github from '../images/logos/github.svg'
-// import linkedin from '../images/logos/linkedin.svg'
-// import at from '../images/logos/at-solid.svg'
-// import info from '../images/logos/info.svg'
 import photo from '../images/portrait-rond-exemple.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faGithub } from "@fortawesome/free-brands-svg-icons"
