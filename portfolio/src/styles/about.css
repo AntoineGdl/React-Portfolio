@@ -1,0 +1,14 @@
+:root{
+    --fond : #262335;
+    --titres: #fff;
+    --texte : #71689E;
+    --hover : #93919a;
+    --textes : #d4d3d7;
+}
+
+h1 {
+    padding-top: 1vh;
+    font-weight: 800;
+    font-size: 1.8vw;
+    color: var(--titres);
+}

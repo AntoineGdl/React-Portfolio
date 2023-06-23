@@ -1,10 +1,13 @@
 import { Navbar } from "../composants/Navbar"
+import { Footer } from "../composants/Footer"
+import { SectionAbout } from "../composants/SectionAbout"
 
 export const About = () => {
     return (
         <div>
             <Navbar/>
-            <h1>PAGE A PROPOS</h1>
+            <SectionAbout/>
+            <Footer/>
         </div>
     )
 }
