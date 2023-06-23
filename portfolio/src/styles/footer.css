@@ -23,7 +23,12 @@
     font-size: 1.2vw;
 }
 
-.sun:hover{
+.soleil{
+    background: none;
+    transition: all 0.1s ease-in-out;
+}
+
+.soleil:hover{
     color: var(--hover);
     font-size: 1.2vw;
     transform: scale(1.2);

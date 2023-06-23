@@ -1,12 +1,13 @@
-import sun from '../images/logos/sun-solid.svg'
 import '../styles/footer.css'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faSun } from '@fortawesome/free-solid-svg-icons'
 
 export const Footer = () => {
     return (
         <footer className="footer">
                 <div className="f">
                     <p>&copy; Antoine Goudaillier</p>
-                        <a href="#" ><img className="logos" src={sun} width={20} /></a>
+                        <a href="#"><FontAwesomeIcon className='soleil' icon={faSun} style={{color: "#71689e"}} /></a>
 
             </div>
         </footer>
