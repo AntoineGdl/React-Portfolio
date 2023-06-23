@@ -18,3 +18,6 @@ Commit 5:
 
 Commit 6:
 - Page `Projets + style` restera à indiquer les liens des projets
+
+Commit 7:
+- Création et initialisation `A propos`
