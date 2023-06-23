@@ -21,3 +21,8 @@ Commit 6:
 
 Commit 7:
 - Création et initialisation `A propos`
+
+Commit 8:
+- Ajout de la page `Contact`
+- Utilisation de `React hook form`
+- Utilisation de `Email JS`

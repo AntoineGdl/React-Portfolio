@@ -1,10 +1,13 @@
 import { Navbar } from "../composants/Navbar";
+import { SectionContact } from "../composants/SectionContact";
+import { Footer } from "../composants/Footer";
 
 export const Contact = () => {
     return(
         <div>
             <Navbar/>
-            <h1>PAGE DE CONTACT</h1>
+                <SectionContact/>
+            <Footer/>
         </div>
         
     )
