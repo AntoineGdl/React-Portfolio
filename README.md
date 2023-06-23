@@ -15,3 +15,6 @@ Commit 4:
 
 Commit 5:
 - Achèvement de la page `Home`
+
+Commit 6:
+- Page `Projets + style` restera à indiquer les liens des projets
